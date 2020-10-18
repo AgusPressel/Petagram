@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">petagram</string>
+    <string name="pname">Agustin</string>
+    <string name="pemail">agus@hotmail.com</string>
+    <string name="pphone">09548631</string>
+    <string name="pdetalle">soy desarrollador</string>
+</resources>
